@@ -1,6 +1,6 @@
 import React from "react";
 import { createStackNavigator } from "@react-navigation/stack";
-import ListarEspecialidades from "../../../Screen/Especialidades/ListarEspecialidades";
+import ListarEspecialidades from "../../../Screen/Especialidades/ListarEspecialidad";
 import DetalleEspecialidad from "../../../Screen/Especialidades/DetalleEspecialidad";
 import EditarEspecialidad from "../../../Screen/Especialidades/EditarEspecialidad";
 
